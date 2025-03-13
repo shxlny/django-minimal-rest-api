@@ -4,6 +4,7 @@
 
 ## Структура проекта
 
+```plaintext
 django-minimal-rest-api/
 ├── api/                      # Приложение (app) с моделями, сериализаторами, представлениями и URL
 │   ├── migrations/
@@ -24,6 +25,7 @@ django-minimal-rest-api/
 └── .gitignore                # Файл игнорирования для Git
 
 
+
 ## Установка и запуск
 
 1. **Клонируйте репозиторий:**
@@ -36,15 +38,15 @@ django-minimal-rest-api/
    
   *Для Unix/macOS:*
    
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate
+       ```bash
+       python -m venv .venv
+       source .venv/bin/activate
    
   *Для Windows:*
   
-    ```bash
-    python -m venv .venv
-    .venv\Scripts\activate
+       ```bash
+       python -m venv .venv
+       .venv\Scripts\activate
 
 3. **Установите зависимости:**
    
