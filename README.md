@@ -23,7 +23,7 @@ django-minimal-rest-api/
 ├── templates/                # Папка с шаблонами (если требуется)
 ├── manage.py                 # Основной управляющий скрипт Django
 └── .gitignore                # Файл игнорирования для Git
-
+```plaintext
 
 
 ## Установка и запуск
